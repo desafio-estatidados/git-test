@@ -2,4 +2,9 @@ Este é um arquivo de teste.
 
 
 Texto novo: 
-As mudanças climáticas têm impactado diretamente a agricultura, alterando padrões de temperatura, precipitação e eventos climáticos extremos. A variabilidade no clima dificulta o planejamento das safras, aumentando o risco de perdas nas colheitas. Secas prolongadas, chuvas intensas e temperaturas extremas afetam o crescimento das plantas, além de promoverem o surgimento de novas pragas e doenças. A escassez de água também compromete a irrigação, essencial para diversas culturas. Para enfrentar esses desafios, é crucial adotar práticas agrícolas sustentáveis, como o uso de tecnologias de monitoramento climático e a diversificação de culturas, visando aumentar a resiliência do setor agrícola.
+As mudanças climáticas têm impactado diretamente a agricultura, alterando padrões de temperatura, precipitação e eventos climáticos extremos. 
+A variabilidade no clima dificulta o planejamento das safras, aumentando o risco de perdas nas colheitas. Secas prolongadas, chuvas intensas 
+e temperaturas extremas afetam o crescimento das plantas, além de promoverem o surgimento de novas pragas e doenças.
+A escassez de água também compromete a irrigação, essencial para diversas culturas. Para enfrentar esses desafios, 
+é crucial adotar práticas agrícolas sustentáveis, como o uso de tecnologias de monitoramento climático e a diversificação de culturas, 
+visando aumentar a resiliência do setor agrícola.
